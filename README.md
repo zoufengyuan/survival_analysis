@@ -1,10 +1,13 @@
 # survival_analysis
-主要是用python进行生存分析的步骤，包括生存分析(逐步和单因素)，KM曲线、决策曲线，ROC曲线，训练测试样本分布比较
+主要是用python和R相结合(主要是python)，进行生存分析的步骤，包括生存分析(逐步和单因素)，KM曲线、决策曲线，ROC曲线，训练测试样本分布比较和列线图
 
 # step 1 KM曲线
 ![](https://github.com/zoufengyuan/survival_analysis/blob/main/result_plot/KM.png)
 
 # step 2 训练测试集分布
+![](https://github.com/zoufengyuan/survival_analysis/blob/main/result_plot/distribution.jpg)
+
+# step 3 列线图
 ![](https://github.com/zoufengyuan/survival_analysis/blob/main/result_plot/distribution.jpg)
 
 # step 3 DCA曲线
